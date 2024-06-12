@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width="310" alt="logo-github" src="https://github.com/develoble/.github/assets/9094115/8744cde6-5197-47b1-b1c1-157a8abf6d42">
+<img width="310" alt="logo-github" src="https://github.com/develoble/.github/assets/9094115/8744cde6-5197-47b1-b1c1-157a8abf6d42" alt="Develoble logo">
 </h1>
 <p align="center">
 Building modern websites <strong>from scratch</strong> for individuals and small businesses like ours.

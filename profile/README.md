@@ -1,12 +1,10 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">
+<img width="310" alt="logo-github" src="https://github.com/develoble/.github/assets/9094115/8744cde6-5197-47b1-b1c1-157a8abf6d42">
+</h1>
+<p align="center">
+Building modern websites <strong>from scratch</strong> for individuals and small businesses like ours.
+<p>
+<div align="center">
+  <a href="https://develoble.com">Compare our services</a> —
+  <a href="https://develoble.com">Schedule a meeting</a>
+</div>

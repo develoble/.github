@@ -13,6 +13,5 @@ Building modern websites <strong>from scratch</strong> for individuals and small
 <div align="center">
   <img alt="Astro badge" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
   <img alt="Next.js badge" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img alt="Nuxt.js badge" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
   <img alt="Strapi badge" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
 </div>

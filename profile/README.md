@@ -7,7 +7,7 @@ Building modern websites <strong>from scratch</strong> for individuals and small
 <p>
 <div align="center">
   <a href="https://develoble.com">Compare our services</a> —
-  <a href="https://develoble.com">Schedule a meeting</a>
+  <a href="https://www.linkedin.com/in/ginazampino/">Connect with us</a>
 </div>
 <h2><br /></h2>
 <div align="center">

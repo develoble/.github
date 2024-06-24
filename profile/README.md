@@ -3,7 +3,7 @@
 </h1>
 <br />
 <p align="center">
-Building websites that grow <strong>with</strong> your business.
+Building custom websites that grow <strong>with</strong> your business.
 <p>
 <div align="center">
   <a href="https://develoble.com">Visit our website</a> —

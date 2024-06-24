@@ -3,7 +3,7 @@
 </h1>
 <br />
 <p align="center">
-Building modern websites <strong>from scratch</strong> for individuals and small businesses like ours.
+Building websites that grow <strong>with</strong> your business.
 <p>
 <div align="center">
   <a href="https://develoble.com">Visit our website</a> —

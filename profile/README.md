@@ -1,6 +1,6 @@
 
 <div align="center">
-  <span><code>Made in USA</code></span>
+  <span><code>🇺🇸 Made in USA</code></span>
 </div>
 <div align="center">
   <img width="310" alt="Develoble logo" src="https://github.com/develoble/.github/assets/9094115/8744cde6-5197-47b1-b1c1-157a8abf6d42">

@@ -11,7 +11,6 @@
 Building custom websites that grow <strong>with</strong> your business.
 <p>
 <div align="center">
-  <a href="https://develoble.com">Visit our website</a> —
   <a href="https://www.linkedin.com/in/ginazampino/">Connect with us</a>
 </div>
 <h2 aria-hidden="true"><br /></h2>
